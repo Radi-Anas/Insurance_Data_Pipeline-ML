@@ -151,7 +151,7 @@ Created 14 domain-specific features based on fraud detection logic:
 
 ```bash
 # Clone and install
-git clone https://github.com/Radi-Anas/Insurance_Data_Piepline-ML.git
+git clone https://github.com/Radi-Anas/Insurance_Data_Pipeline-ML.git
 cd morocco_re_pipeline
 pip install -r requirements.txt
 
